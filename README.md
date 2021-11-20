@@ -12,4 +12,5 @@ https://docs.datastax.com/en/developer/cpp-driver/2.16/topics/building/
 - Selecting some datas with a WHERE clause.
 
 # Screenshot : 
+- I haven't find a way to print the miliseconds. At the end, it is totally normal to see only one row from the SELECT since the time is 10:00:00:001.
 ![alt text](https://github.com/Clement-Devevey/C_cassandra/blob/master/screen/screens.png?raw=true)
