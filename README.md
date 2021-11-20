@@ -10,3 +10,6 @@ https://docs.datastax.com/en/developer/cpp-driver/2.16/topics/building/
 - Creating a data table, and inserting some datas in it.
 - Printing those datas to the terminal.
 - Selecting some datas with a WHERE clause.
+
+# Screenshot : 
+![alt text](https://github.com/Clement-Devevey/C_cassandra/blob/master/screen/screens.png?raw=true)
